@@ -8,12 +8,12 @@ Learn to discover open ports on devices in your local network to understand netw
 
 ## Local IP Range
 
-** 192.168.1.0/24
+**192.168.1.0/24**
 
 
 
 ## TCP SYN Scan
-** nmap -sS 192.168.1.0/24
+**nmap -sS 192.168.1.0/24**
 
 
 ## Scan Results
