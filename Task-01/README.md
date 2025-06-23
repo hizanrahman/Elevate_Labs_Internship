@@ -8,12 +8,12 @@ Learn to discover open ports on devices in your local network to understand netw
 
 ## Local IP Range
 
-**192.168.1.0/24**
+`**192.168.1.0/24**`
 
 
 
 ## TCP SYN Scan
-**nmap -sS 192.168.1.0/24**
+`**nmap -sS 192.168.1.0/24**`
 
 
 ## Scan Results
@@ -48,7 +48,7 @@ Learn to discover open ports on devices in your local network to understand netw
 
 ## Analysing Packets Captured in Wireshark
 
-[Click here to view the Wireshark screenshot](https://github.com/your-repo-name/path-to-screenshot.png)
+[Click here to view the Wireshark screenshot](https://github.com/hizanrahman/Elevate_Labs_Internship/Task-01/wireshark)
 
 
 
