@@ -1,0 +1,57 @@
+# Nmap 7.95 scan initiated Mon Jun 23 16:19:52 2025 as: /usr/lib/nmap/nmap --privileged -sS -oN result.txt 192.168.1.0/24
+Nmap scan report for 192.168.1.1
+Host is up (0.0068s latency).
+Not shown: 997 closed tcp ports (reset)
+PORT     STATE    SERVICE
+53/tcp   open     domain
+80/tcp   open     http
+5555/tcp filtered freeciv
+MAC Address: BC:62:D2:58:8E:E8 (Genexis International)
+
+Nmap scan report for 192.168.1.2
+Host is up (0.013s latency).
+Not shown: 999 closed tcp ports (reset)
+PORT   STATE SERVICE
+80/tcp open  http
+MAC Address: E8:65:D4:09:88:30 (Tenda Technology,Ltd.Dongguan branch)
+
+Nmap scan report for 192.168.1.3
+Host is up (0.0099s latency).
+Not shown: 999 closed tcp ports (reset)
+PORT     STATE SERVICE
+8009/tcp open  ajp13
+MAC Address: EC:0D:E4:58:89:E3 (Amazon Technologies)
+
+Nmap scan report for 192.168.1.5
+Host is up (0.0079s latency).
+All 1000 scanned ports on 192.168.1.5 are in ignored states.
+Not shown: 1000 closed tcp ports (reset)
+MAC Address: 8A:F3:46:E8:8E:9A (Unknown)
+
+Nmap scan report for 192.168.1.6
+Host is up (0.018s latency).
+Not shown: 998 closed tcp ports (reset)
+PORT      STATE SERVICE
+49152/tcp open  unknown
+62078/tcp open  iphone-sync
+MAC Address: 36:A8:CB:EB:5A:4C (Unknown)
+
+Nmap scan report for 192.168.1.8
+Host is up (0.00028s latency).
+Not shown: 999 filtered tcp ports (no-response)
+PORT     STATE SERVICE
+1309/tcp open  jtag-server
+MAC Address: 8C:1D:96:5E:28:51 (Intel Corporate)
+
+Nmap scan report for 192.168.1.9
+Host is up (0.0038s latency).
+All 1000 scanned ports on 192.168.1.9 are in ignored states.
+Not shown: 1000 closed tcp ports (reset)
+MAC Address: 1E:DF:EE:26:4A:F7 (Unknown)
+
+Nmap scan report for 192.168.1.12
+Host is up (0.0000010s latency).
+All 1000 scanned ports on 192.168.1.12 are in ignored states.
+Not shown: 1000 closed tcp ports (reset)
+
+# Nmap done at Mon Jun 23 16:20:18 2025 -- 256 IP addresses (8 hosts up) scanned in 26.59 seconds
