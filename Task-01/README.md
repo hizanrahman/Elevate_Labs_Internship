@@ -48,7 +48,7 @@ Learn to discover open ports on devices in your local network to understand netw
 
 ## Analysing Packets Captured in Wireshark
 
-[Click here to view the Wireshark screenshot](https://github.com/hizanrahman/Elevate_Labs_Internship/Task-01/wireshark.png)
+[Click here to view the Wireshark screenshot](https://github.com/hizanrahman/Elevate_Labs_Internship/blob/main/Task-01/wireshark.png)
 
 
 
