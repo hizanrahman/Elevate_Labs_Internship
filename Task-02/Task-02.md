@@ -18,13 +18,13 @@ A detailed report listing all identified phishing indicators found in the email 
 
 3. **Check Email Headers**  
    - While analysing the header section, I have found **SPM & DKIM** Signatures are missing
-     ![mxtool]()
+     ![mxtool](https://github.com/hizanrahman/Elevate_Labs_Internship/blob/main/Task-02/mx.png)
 
 4. **Identify Suspicious Links or Attachments**  
    Suspicious link: `https://blog1seguimentmydomaine2bra.me/`
 
   - I have checked in VirusTotal tool for malicious detection and found as no vendors have flagged as malicious.
-    ![virustotal]()
+    ![virustotal](https://github.com/hizanrahman/Elevate_Labs_Internship/blob/main/Task-02/virus.png)
 
 **Summary**
 
