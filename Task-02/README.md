@@ -17,7 +17,7 @@ A detailed report listing all identified phishing indicators found in the email 
     - The sender's email address is `banco.bradesco@atendimento.com.br` which is not heard as a common domain
 
 3. **Check Email Headers**  
-   - While analysing the header section, I have found **SPM & DKIM** Signatures are missing
+   - While analysing the header section, I have found **SPF & DKIM** Signatures are missing
      ![mxtool](https://github.com/hizanrahman/Elevate_Labs_Internship/blob/main/Task-02/mx.png)
 
 4. **Identify Suspicious Links or Attachments**  
