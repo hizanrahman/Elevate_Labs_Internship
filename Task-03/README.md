@@ -9,5 +9,5 @@
    ![nessus](https://github.com/hizanrahman/Elevate_Labs_Internship/blob/main/Task-03/nessus_scan.png)
    
 4. Scanned localhost for vulnerablilities
-   ![scan]()
+   ![scan](https://github.com/hizanrahman/Elevate_Labs_Internship/blob/main/Task-03/vuln.png)
    
