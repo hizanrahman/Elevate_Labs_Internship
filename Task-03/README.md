@@ -5,7 +5,7 @@
 
 1. Installed Nessus Essentials in my system.
 2. Logged in to the Nessus Dashboard
-   ![nessus]()
+   ![nessus](https://github.com/hizanrahman/Elevate_Labs_Internship/blob/main/Task-03/nessus_scan.png)
 3. Scanned localhost for vulnerablilities
    ![scan]()
    
