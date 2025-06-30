@@ -4,7 +4,7 @@ Objective: Capture live network packets and identify basic protocols and traffic
 # Report
 
 * Analyzed & Filtered captured packets in Wireshark by creating a web traffic
-![analyze]()
+![analyze](https://github.com/hizanrahman/Elevate_Labs_Internship/blob/main/Task-05/analyze.png)
 * Found various protocols in the PCAP file
 
 ![protocol](https://github.com/hizanrahman/Elevate_Labs_Internship/blob/main/Task-05/protocols.png)
