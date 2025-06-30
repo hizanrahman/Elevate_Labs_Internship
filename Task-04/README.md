@@ -10,4 +10,5 @@
 
 ![ufw](https://github.com/hizanrahman/Elevate_Labs_Internship/blob/main/Task-04/task4.png)
 
-
+5. Delete the test rule to restore original state
+![dlete](https://github.com/hizanrahman/Elevate_Labs_Internship/blob/main/Task-04/delete.png)
