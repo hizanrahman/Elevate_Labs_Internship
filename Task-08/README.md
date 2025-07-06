@@ -60,5 +60,6 @@ Understand the role of VPNs in protecting privacy and enabling secure communicat
 
 ## 📸 Screenshot
 
+![vpn](https://github.com/hizanrahman/Elevate_Labs_Internship/blob/main/Task-08/VPN.png)
 
 > 🛡️ **Pro Tip:** Use VPNs when on public Wi-Fi or accessing sensitive information to ensure data security. Always choose VPNs with transparent privacy policies.
